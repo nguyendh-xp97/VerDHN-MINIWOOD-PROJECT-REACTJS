@@ -12,7 +12,7 @@ User flow: This web application consists of two main parts: the customer page an
     
 Number of Members: 2 designer, 2 dev 
 
-Technologies used (framework,library,..): ReactJS, MUI, ES6,API,NPM, GIT, Responsive web design …
+Technologies used (framework,library,..): ReactJS, ContextAPI, MUI, ES6, Restful API,NPM, GIT, Responsive web design …
 
 The part I have implemented: 
 + In this project, I play the role of a front-end developer, responsible for both the interface and logic of the customer-facing pages, and user management (addition, deletion, editing, updating, and searching)…. Additionally, I also participate in creating the UI design.
